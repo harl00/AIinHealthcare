@@ -315,4 +315,4 @@ This week focused on the ongoing work of keeping AI safe after deployment:
 
 Due end of Week 9. Students submit draft capstone project structure and preliminary content for tutor feedback before final development.
 
-See [Assessment 3: Capstone Brief](../../assessments/assessment-3-capstone.md) for details.
+See [Assessment 3: Capstone Brief](../../assessments/assessment-3-capstone/) for details.

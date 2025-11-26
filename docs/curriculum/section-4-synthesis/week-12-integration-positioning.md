@@ -279,7 +279,7 @@ This final week synthesised course learning into professional capability:
 
 ## Assessment 3: Capstone Project
 
-Due this week. See [Assessment 3 Brief](../../assessments/assessment-3-capstone.md) for full details.
+Due this week. See [Assessment 3 Brief](../../assessments/assessment-3-capstone/) for details.
 
 ---
 

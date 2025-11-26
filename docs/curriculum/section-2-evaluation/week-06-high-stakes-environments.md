@@ -288,4 +288,4 @@ This week focused on the specific challenges of AI in high-stakes, time-critical
 
 **Summative Assessment 2: Critical Evaluation Report**
 
-Due end of Week 8. See [Assessment 2 Brief](../../assessments/assessment-2-critical-evaluation.md) for full details.
+Due end of Week 8. See [Assessment 2 Brief](../../assessments/assessment-2-critical-evaluation/) for details.

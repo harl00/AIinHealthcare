@@ -10,10 +10,10 @@ This curriculum is designed for Australian healthcare, with particular emphasis 
 
 | Section | Weeks | Focus | Core Question |
 |---------|-------|-------|---------------|
-| [Foundations](curriculum/section-1-foundations/week-01-introduction.md) | 1-3 | AI architecture, algorithms, data | What is this? |
-| [Evaluation](curriculum/section-2-evaluation/week-04-safety-failure-modes.md) | 4-6 | Safety, ethics, regulation | Should we use it? |
-| [Application](curriculum/section-3-application/week-07-implementation-frameworks.md) | 7-9 | Implementation, governance, monitoring | How do we govern it? |
-| [Synthesis](curriculum/section-4-synthesis/week-10-current-landscape.md) | 10-12 | Current landscape, future directions | What comes next? |
+| [Foundations](curriculum/section-1-foundations/week-01-introduction/) | 1-3 | AI architecture, algorithms, data | What is this? |
+| [Evaluation](curriculum/section-2-evaluation/week-04-safety-failure-modes/) | 4-6 | Safety, ethics, regulation | Should we use it? |
+| [Application](curriculum/section-3-application/week-07-implementation-frameworks/) | 7-9 | Implementation, governance, monitoring | How do we govern it? |
+| [Synthesis](curriculum/section-4-synthesis/week-10-current-landscape/) | 10-12 | Current landscape, future directions | What comes next? |
 
 ---
 
@@ -32,17 +32,17 @@ Upon successful completion, students will be able to:
 
 | Assessment | Weight | Due |
 |------------|--------|-----|
-| [Technical Foundations Analysis](assessments/assessment-1-technical-foundations.md) | 25% | Week 4 |
-| [Critical Evaluation Report](assessments/assessment-2-critical-evaluation.md) | 35% | Week 8 |
-| [Capstone Project](assessments/assessment-3-capstone.md) | 40% | Week 12 |
+| [Technical Foundations Analysis](assessments/assessment-1-technical-foundations/) | 25% | Week 4 |
+| [Critical Evaluation Report](assessments/assessment-2-critical-evaluation/) | 35% | Week 8 |
+| [Capstone Project](assessments/assessment-3-capstone/) | 40% | Week 12 |
 
 ---
 
 ## Getting Started
 
-1. Complete the [Pre-course Orientation](curriculum/00-pre-course-orientation.md) for Google Colab setup
-2. Review the [Unit Overview](curriculum/00-unit-overview.md)
-3. Begin with [Week 1: Introduction to AI in Healthcare](curriculum/section-1-foundations/week-01-introduction.md)
+1. Complete the [Pre-course Orientation](curriculum/00-pre-course-orientation/) for Google Colab setup
+2. Review the [Unit Overview](curriculum/00-unit-overview/)
+3. Begin with [Week 1: Introduction to AI in Healthcare](curriculum/section-1-foundations/week-01-introduction/)
 
 ---
 
@@ -50,7 +50,7 @@ Upon successful completion, students will be able to:
 
 Hands-on exercises using Google Colab - no programming experience required.
 
-[View practicals](practicals/practical-exercises-overview.md)
+[View practicals](practicals/practical-exercises-overview/)
 
 ---
 

@@ -64,7 +64,7 @@ Each week includes content specific to retrieval medicine:
 
 ## Practical Computing Stream
 
-The unit includes hands-on exercises using Google Colab to demystify AI/ML processes. No prior programming experience is required. See [Practical Exercises Overview](../practicals/practical-exercises-overview.md) for details.
+The unit includes hands-on exercises using Google Colab to demystify AI/ML processes. No prior programming experience is required. See [Practical Exercises Overview](../practicals/practical-exercises-overview/) for details.
 
 | Week | Practical Exercise |
 |------|-------------------|
@@ -84,7 +84,7 @@ The unit includes hands-on exercises using Google Colab to demystify AI/ML proce
 | Critical Evaluation Report | 35% | End Week 8 | LO1, LO2 |
 | Capstone Project | 40% | Week 12 | LO1, LO2, LO3, LO4 |
 
-See the [assessments](../assessments/) directory for detailed briefs and rubrics.
+See the [assessments](../assessments/assessment-1-technical-foundations/) for detailed briefs and rubrics.
 
 ## Weekly Schedule Summary
 
