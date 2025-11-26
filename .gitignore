@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Local development
+.local/
+*.log

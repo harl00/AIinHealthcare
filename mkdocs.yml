@@ -1,0 +1,105 @@
+site_name: AI in Healthcare
+site_description: A 12-week postgraduate curriculum examining AI in healthcare, with focus on Australian aeromedical retrieval
+site_url: https://harl00.github.io/AIinHealthcare/
+repo_url: https://github.com/harl00/AIinHealthcare
+repo_name: harl00/AIinHealthcare
+docs_dir: .
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  
+  icon:
+    repo: fontawesome/brands/github
+  
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - tables
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/harl00/AIinHealthcare
+
+copyright: >
+  Copyright &copy; 2025 – 
+  Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+
+nav:
+  - Home: index.md
+  - Unit Overview:
+    - Overview: curriculum/00-unit-overview.md
+    - Pre-course Orientation: curriculum/00-pre-course-orientation.md
+  
+  - "Section 1: Foundations":
+    - "Week 1: Introduction": curriculum/section-1-foundations/week-01-introduction.md
+    - "Week 2: AI Architecture": curriculum/section-1-foundations/week-02-architecture.md
+    - "Week 3: Data Foundations": curriculum/section-1-foundations/week-03-data-foundations.md
+  
+  - "Section 2: Evaluation":
+    - "Week 4: Safety & Failure Modes": curriculum/section-2-evaluation/week-04-safety-failure-modes.md
+    - "Week 5: Ethics & Regulation": curriculum/section-2-evaluation/week-05-ethics-regulation.md
+    - "Week 6: High-Stakes Environments": curriculum/section-2-evaluation/week-06-high-stakes-environments.md
+  
+  - "Section 3: Application":
+    - "Week 7: Implementation": curriculum/section-3-application/week-07-implementation-frameworks.md
+    - "Week 8: Human-AI Teaming": curriculum/section-3-application/week-08-human-ai-teaming.md
+    - "Week 9: Monitoring & Maintenance": curriculum/section-3-application/week-09-monitoring-maintenance.md
+  
+  - "Section 4: Synthesis":
+    - "Week 10: Current Landscape": curriculum/section-4-synthesis/week-10-current-landscape.md
+    - "Week 11: Emerging Tech": curriculum/section-4-synthesis/week-11-emerging-technologies.md
+    - "Week 12: Integration": curriculum/section-4-synthesis/week-12-integration-positioning.md
+  
+  - Assessments:
+    - "Assessment 1: Technical Foundations": assessments/assessment-1-technical-foundations.md
+    - "Assessment 2: Critical Evaluation": assessments/assessment-2-critical-evaluation.md
+    - "Assessment 3: Capstone": assessments/assessment-3-capstone.md
+  
+  - Practicals:
+    - Overview: practicals/practical-exercises-overview.md
+  
+  - Resources:
+    - Reading List: resources/reading-list.md
