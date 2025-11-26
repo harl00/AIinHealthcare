@@ -1,57 +1,55 @@
-# AI in Healthcare
+site_name: AI in Healthcare
+site_url: https://harl00.github.io/AIinHealthcare/
+repo_url: https://github.com/harl00/AIinHealthcare
+repo_name: harl00/AIinHealthcare
+docs_dir: .
 
-**A 12-week postgraduate curriculum for health practitioners examining Artificial Intelligence in contemporary healthcare.**
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
-> **Australian Context:** This curriculum is designed for Australian healthcare, with particular emphasis on **aeromedical retrieval**—providing a lens for examining AI in high-stakes, time-critical, and resource-constrained environments.
+plugins:
+  - search
 
----
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
 
-## Course Sections
-
-| Section | Weeks | Focus | Core Question |
-|---------|-------|-------|---------------|
-| **[Foundations](curriculum/section-1-foundations/week-01-introduction.md)** | 1–3 | AI architecture, algorithms, data | *"What is this?"* |
-| **[Evaluation](curriculum/section-2-evaluation/week-04-safety-failure-modes.md)** | 4–6 | Safety, ethics, regulation | *"Should we use it?"* |
-| **[Application](curriculum/section-3-application/week-07-implementation-frameworks.md)** | 7–9 | Implementation, governance, monitoring | *"How do we govern it?"* |
-| **[Synthesis](curriculum/section-4-synthesis/week-10-current-landscape.md)** | 10–12 | Current landscape, future directions | *"What comes next?"* |
-
----
-
-## Learning Outcomes
-
-Upon successful completion, students will be able to:
-
-1. **Explain AI Architecture** – Analyse core components, algorithms, and models in healthcare AI
-2. **Evaluate AI Safety** – Assess challenges, risks, and ethical implications in clinical settings  
-3. **Implement AI in Healthcare** – Apply best practices for safe and effective integration
-4. **Analyse Emerging Technologies** – Investigate current applications and predict future advancements
-
----
-
-## Assessments
-
-| Assessment | Weight | Due |
-|------------|--------|-----|
-| [Technical Foundations Analysis](assessments/assessment-1-technical-foundations.md) | 25% | Week 4 |
-| [Critical Evaluation Report](assessments/assessment-2-critical-evaluation.md) | 35% | Week 8 |
-| [Capstone Project](assessments/assessment-3-capstone.md) | 40% | Week 12 |
-
----
-
-## Getting Started
-
-1. Complete the [Pre-course Orientation](curriculum/00-pre-course-orientation.md) for Google Colab setup
-2. Review the [Unit Overview](curriculum/00-unit-overview.md)
-3. Begin with [Week 1: Introduction to AI in Healthcare](curriculum/section-1-foundations/week-01-introduction.md)
-
----
-
-## Practical Computing Stream
-
-Hands-on exercises using Google Colab—no programming experience required.
-
-[View practicals →](practicals/practical-exercises-overview.md)
-
----
-
-*Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Contributions welcome via [GitHub](https://github.com/harl00/AIinHealthcare).*
+nav:
+  - Home: index.md
+  - Unit Overview:
+      - Overview: curriculum/00-unit-overview.md
+      - Pre-course Orientation: curriculum/00-pre-course-orientation.md
+  - "Foundations (Weeks 1-3)":
+      - "Week 1 - Introduction": curriculum/section-1-foundations/week-01-introduction.md
+      - "Week 2 - Architecture": curriculum/section-1-foundations/week-02-architecture.md
+      - "Week 3 - Data Foundations": curriculum/section-1-foundations/week-03-data-foundations.md
+  - "Evaluation (Weeks 4-6)":
+      - "Week 4 - Safety": curriculum/section-2-evaluation/week-04-safety-failure-modes.md
+      - "Week 5 - Ethics & Regulation": curriculum/section-2-evaluation/week-05-ethics-regulation.md
+      - "Week 6 - High-Stakes Environments": curriculum/section-2-evaluation/week-06-high-stakes-environments.md
+  - "Application (Weeks 7-9)":
+      - "Week 7 - Implementation": curriculum/section-3-application/week-07-implementation-frameworks.md
+      - "Week 8 - Human-AI Teaming": curriculum/section-3-application/week-08-human-ai-teaming.md
+      - "Week 9 - Monitoring": curriculum/section-3-application/week-09-monitoring-maintenance.md
+  - "Synthesis (Weeks 10-12)":
+      - "Week 10 - Current Landscape": curriculum/section-4-synthesis/week-10-current-landscape.md
+      - "Week 11 - Emerging Tech": curriculum/section-4-synthesis/week-11-emerging-technologies.md
+      - "Week 12 - Integration": curriculum/section-4-synthesis/week-12-integration-positioning.md
+  - Assessments:
+      - "Assessment 1": assessments/assessment-1-technical-foundations.md
+      - "Assessment 2": assessments/assessment-2-critical-evaluation.md
+      - "Assessment 3 - Capstone": assessments/assessment-3-capstone.md
+  - Practicals: practicals/practical-exercises-overview.md
+  - Reading List: resources/reading-list.md
