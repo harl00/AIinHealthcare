@@ -248,7 +248,8 @@ Using a synthetic (but realistic) clinical dataset, you'll explore how data qual
 import pandas as pd
 import matplotlib.pyplot as plt
 
-ed_data = pd.read_csv('synthetic_ed_data.csv')
+url = "https://raw.githubusercontent.com/harl00/AIinHealthcare/main/data/AI_in_HealthCare_Dataset.csv"
+ed_data = pd.read_csv(url)
 
 # Basic exploration
 print("Dataset shape:", ed_data.shape)
