@@ -80,9 +80,9 @@ The unit includes hands-on exercises using Google Colab to demystify AI/ML proce
 
 | Assessment | Weighting | Due | Learning Outcomes |
 |------------|-----------|-----|-------------------|
-| Technical Foundations Analysis | 25% | End Week 4 | LO1 |
-| Critical Evaluation Report | 35% | End Week 8 | LO1, LO2 |
-| Capstone Project | 40% | Week 12 | LO1, LO2, LO3, LO4 |
+| Technical Foundations Analysis | 25% | End Week 4 | [LO1](#learning-outcomes) |
+| Critical Evaluation Report | 35% | End Week 8 | [LO1](#learning-outcomes), [LO2](#learning-outcomes) |
+| Capstone Project | 40% | Week 12 | [LO1](#learning-outcomes), [LO2](#learning-outcomes), [LO3](#learning-outcomes), [LO4](#learning-outcomes) |
 
 See the [assessments](../assessments/assessment-1-technical-foundations/) for detailed briefs and rubrics.
 

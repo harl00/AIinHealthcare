@@ -7,7 +7,7 @@
 | **Weighting** | 35% |
 | **Due Date** | End of Week 8 |
 | **Word Count** | 2,500 words |
-| **Learning Outcomes** | LO1, LO2 |
+| **Learning Outcomes** | [LO1](../curriculum/00-unit-overview.md#learning-outcomes), [LO2](../curriculum/00-unit-overview.md#learning-outcomes) |
 | **Format** | Governance committee briefing paper |
 
 ---
@@ -32,7 +32,7 @@ Describe the AI system and its intended use case:
 - Who would use it and when?
 - What decisions or actions would it inform?
 
-*Draw on your LO1 knowledge but focus on application context.*
+*Draw on your [LO1](../curriculum/00-unit-overview.md#learning-outcomes) knowledge but focus on application context.*
 
 ### 2. Safety Risk Analysis (approximately 600 words)
 

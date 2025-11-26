@@ -7,7 +7,7 @@
 | **Weighting** | 25% |
 | **Due Date** | End of Week 4 |
 | **Word Count** | 1,500 words |
-| **Learning Outcomes** | LO1 |
+| **Learning Outcomes** | [LO1](../curriculum/00-unit-overview.md#learning-outcomes) |
 | **Format** | Written report |
 
 ---

@@ -7,7 +7,7 @@
 | **Weighting** | 40% |
 | **Due Date** | Week 12 |
 | **Word Count** | 4,000 words (or equivalent) |
-| **Learning Outcomes** | LO1, LO2, LO3, LO4 |
+| **Learning Outcomes** | [LO1](../curriculum/00-unit-overview.md#learning-outcomes), [LO2](../curriculum/00-unit-overview.md#learning-outcomes), [LO3](../curriculum/00-unit-overview.md#learning-outcomes), [LO4](../curriculum/00-unit-overview.md#learning-outcomes) |
 | **Format** | Professional report |
 
 ---
@@ -28,7 +28,7 @@ Develop a detailed implementation strategy for introducing a specific AI technol
 
 Your strategy must address all five components:
 
-#### 1. Technical Overview (approximately 600 words) — LO1
+#### 1. Technical Overview (approximately 600 words) — [LO1](../curriculum/00-unit-overview.md#learning-outcomes)
 
 Provide a technical overview of the AI system:
 - Architecture and algorithms
@@ -36,7 +36,7 @@ Provide a technical overview of the AI system:
 - System capabilities and limitations
 - Technical integration requirements
 
-#### 2. Risk and Ethical Analysis (approximately 800 words) — LO2
+#### 2. Risk and Ethical Analysis (approximately 800 words) — [LO2](../curriculum/00-unit-overview.md#learning-outcomes)
 
 Present comprehensive risk and ethical analysis:
 - Safety risks and failure modes
@@ -45,7 +45,7 @@ Present comprehensive risk and ethical analysis:
 - Regulatory requirements
 - Mitigations for identified risks
 
-#### 3. Implementation Approach (approximately 1,200 words) — LO3
+#### 3. Implementation Approach (approximately 1,200 words) — [LO3](../curriculum/00-unit-overview.md#learning-outcomes)
 
 Detail the implementation approach:
 - Governance structure and oversight
@@ -56,7 +56,7 @@ Detail the implementation approach:
 - Monitoring and maintenance plan
 - Contingency and incident response
 
-#### 4. Future Analysis (approximately 600 words) — LO4
+#### 4. Future Analysis (approximately 600 words) — [LO4](../curriculum/00-unit-overview.md#learning-outcomes)
 
 Analyse how the technology may evolve:
 - Expected technological developments
@@ -82,7 +82,7 @@ Produce a critical analysis of an emerging AI technology and its implications fo
 
 Your analysis must address all five components:
 
-#### 1. Technology Explanation (approximately 600 words) — LO1
+#### 1. Technology Explanation (approximately 600 words) — [LO1](../curriculum/00-unit-overview.md#learning-outcomes)
 
 Explain the technology and its current development state:
 - Technical foundations and architecture
@@ -90,7 +90,7 @@ Explain the technology and its current development state:
 - Development trajectory
 - Healthcare applications (current and potential)
 
-#### 2. Critical Evaluation (approximately 800 words) — LO2
+#### 2. Critical Evaluation (approximately 800 words) — [LO2](../curriculum/00-unit-overview.md#learning-outcomes)
 
 Critically evaluate implications:
 - Safety risks and concerns
@@ -99,7 +99,7 @@ Critically evaluate implications:
 - Equity and access considerations
 - Evidence base and gaps
 
-#### 3. Implementation Analysis (approximately 800 words) — LO3
+#### 3. Implementation Analysis (approximately 800 words) — [LO3](../curriculum/00-unit-overview.md#learning-outcomes)
 
 Analyse implementation requirements:
 - What would implementation require?
@@ -107,7 +107,7 @@ Analyse implementation requirements:
 - What governance would be needed?
 - What workforce implications arise?
 
-#### 4. Future Trajectory (approximately 800 words) — LO4
+#### 4. Future Trajectory (approximately 800 words) — [LO4](../curriculum/00-unit-overview.md#learning-outcomes)
 
 Predict development and implications:
 - How will this technology evolve?
