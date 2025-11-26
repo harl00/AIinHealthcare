@@ -190,7 +190,7 @@ Short reflection (300 words) comparing AI behaviour to your clinical expectation
 
 ### Required Reading
 
-- [Topol, E. (2019). *Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again*. Chapter 1: Introduction.](https://catalog.nlm.nih.gov/permalink/01NLM_INST/m5fc0v/alma9917337203406676)
+- <a href="https://catalog.nlm.nih.gov/permalink/01NLM_INST/m5fc0v/alma9917337203406676" target="_blank">Topol, E. (2019). *Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again*. Chapter 1: Introduction.</a>
 
 ### Recommended Reading
 
