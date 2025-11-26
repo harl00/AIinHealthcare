@@ -264,10 +264,10 @@ print(ed_data.isnull().sum())
 ```python
 # Examine who is represented in this dataset
 print("Age distribution:")
-print(ed_data['Age'].describe())
+print(ed_data['age'].describe())
 
 print("\nGender breakdown:")
-print(ed_data['Gender'].value_counts(normalize=True))
+print(ed_data['gender'].value_counts(normalize=True))
 
 print("\nIndigenous status:")
 print(ed_data['indigenous_status'].value_counts(normalize=True))
