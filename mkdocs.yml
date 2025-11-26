@@ -2,7 +2,6 @@ site_name: AI in Healthcare
 site_url: https://harl00.github.io/AIinHealthcare/
 repo_url: https://github.com/harl00/AIinHealthcare
 repo_name: harl00/AIinHealthcare
-docs_dir: .
 
 theme:
   name: material
