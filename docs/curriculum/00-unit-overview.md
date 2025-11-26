@@ -64,7 +64,7 @@ Each week includes content specific to retrieval medicine:
 
 ## Practical Computing Stream
 
-The unit includes hands-on exercises using Google Colab to demystify AI/ML processes. No prior programming experience is required. See [Practical Exercises Overview](../practicals/practical-exercises-overview/) for details.
+The unit includes hands-on exercises using Google Colab to demystify AI/ML processes. No prior programming experience is required. See [Practical Exercises Overview](../practicals/practical-exercises-overview.md) for details.
 
 | Week | Practical Exercise |
 |------|-------------------|

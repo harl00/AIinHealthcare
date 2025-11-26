@@ -50,7 +50,7 @@ Upon successful completion, students will be able to:
 
 Hands-on exercises using Google Colab - no programming experience required.
 
-[View practicals](practicals/practical-exercises-overview/)
+[View practicals](practicals/practical-exercises-overview.md)
 
 ---
 
