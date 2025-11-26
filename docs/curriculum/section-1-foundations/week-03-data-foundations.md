@@ -264,16 +264,16 @@ print(ed_data.isnull().sum())
 ```python
 # Examine who is represented in this dataset
 print("Age distribution:")
-print(ed_data['age'].describe())
+print(ed_data['Age'].describe())
 
 print("\nGender breakdown:")
-print(ed_data['gender'].value_counts(normalize=True))
+print(ed_data['Gender'].value_counts(normalize=True))
 
 print("\nIndigenous status:")
-print(ed_data['indigenous_status'].value_counts(normalize=True))
+print(ed_data['Indigenous_Status'].value_counts(normalize=True))
 
 print("\nPostcode distribution (urban vs rural):")
-print(ed_data['remoteness_category'].value_counts(normalize=True))
+print(ed_data['Remoteness_Category'].value_counts(normalize=True))
 ```
 
 **Key Questions:**
@@ -285,21 +285,21 @@ print(ed_data['remoteness_category'].value_counts(normalize=True))
 
 ```python
 # Check if outcomes vary by demographic group
-for group in ['gender', 'indigenous_status', 'remoteness_category']:
-    print(f"\n--- Outcomes by {group} ---")
-    outcome_by_group = ed_data.groupby(group)['adverse_outcome'].mean()
-    print(outcome_by_group)
+for group in ['Gender', 'Indigenous_Status', 'Remoteness_Category']:
+   print(f"\n--- Outcomes by {group} ---")
+   outcome_by_group = ed_data.groupby(group)['adverse_outcome'].mean()
+   print(outcome_by_group)
 ```
 
 ### Part D: Missing Data Patterns
 
 ```python
 # Missing data is rarely random
-missing_analysis = ed_data.groupby('indigenous_status').apply(
-    lambda x: x.isnull().mean()
+missing_analysis = ed_data.groupby('Indigenous_Status').apply(
+   lambda x: x.isnull().mean()
 )
 print("Missing data rates by Indigenous status:")
-print(missing_analysis[['pathology_results', 'vital_signs', 'social_history']])
+print(missing_analysis[['Pathology_Results', 'Vital_Signs', 'Social_History']])
 ```
 
 **Discussion Points:**
