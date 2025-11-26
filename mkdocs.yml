@@ -4,6 +4,8 @@ repo_url: https://github.com/harl00/AIinHealthcare
 
 theme:
   name: material
+  features:
+    - content.code.copy
   palette:
     - scheme: default
       primary: indigo
