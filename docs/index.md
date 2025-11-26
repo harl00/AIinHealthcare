@@ -2,7 +2,7 @@
 
 **A 12-week postgraduate curriculum for health practitioners examining Artificial Intelligence in contemporary healthcare.**
 
-> **Australian Context:** This curriculum is designed for Australian healthcare, with particular emphasis on **aeromedical retrieval**—providing a lens for examining AI in high-stakes, time-critical, and resource-constrained environments.
+This curriculum is designed for Australian healthcare, with particular emphasis on **aeromedical retrieval**—providing a lens for examining AI in high-stakes, time-critical, and resource-constrained environments.
 
 ---
 
@@ -10,10 +10,10 @@
 
 | Section | Weeks | Focus | Core Question |
 |---------|-------|-------|---------------|
-| **[Foundations](curriculum/section-1-foundations/week-01-introduction.md)** | 1–3 | AI architecture, algorithms, data | *"What is this?"* |
-| **[Evaluation](curriculum/section-2-evaluation/week-04-safety-failure-modes.md)** | 4–6 | Safety, ethics, regulation | *"Should we use it?"* |
-| **[Application](curriculum/section-3-application/week-07-implementation-frameworks.md)** | 7–9 | Implementation, governance, monitoring | *"How do we govern it?"* |
-| **[Synthesis](curriculum/section-4-synthesis/week-10-current-landscape.md)** | 10–12 | Current landscape, future directions | *"What comes next?"* |
+| [Foundations](curriculum/section-1-foundations/week-01-introduction.md) | 1-3 | AI architecture, algorithms, data | What is this? |
+| [Evaluation](curriculum/section-2-evaluation/week-04-safety-failure-modes.md) | 4-6 | Safety, ethics, regulation | Should we use it? |
+| [Application](curriculum/section-3-application/week-07-implementation-frameworks.md) | 7-9 | Implementation, governance, monitoring | How do we govern it? |
+| [Synthesis](curriculum/section-4-synthesis/week-10-current-landscape.md) | 10-12 | Current landscape, future directions | What comes next? |
 
 ---
 
@@ -21,10 +21,10 @@
 
 Upon successful completion, students will be able to:
 
-1. **Explain AI Architecture** – Analyse core components, algorithms, and models in healthcare AI
-2. **Evaluate AI Safety** – Assess challenges, risks, and ethical implications in clinical settings  
-3. **Implement AI in Healthcare** – Apply best practices for safe and effective integration
-4. **Analyse Emerging Technologies** – Investigate current applications and predict future advancements
+1. **Explain AI Architecture** - Analyse core components, algorithms, and models in healthcare AI
+2. **Evaluate AI Safety** - Assess challenges, risks, and ethical implications in clinical settings
+3. **Implement AI in Healthcare** - Apply best practices for safe and effective integration
+4. **Analyse Emerging Technologies** - Investigate current applications and predict future advancements
 
 ---
 
@@ -48,10 +48,10 @@ Upon successful completion, students will be able to:
 
 ## Practical Computing Stream
 
-Hands-on exercises using Google Colab—no programming experience required.
+Hands-on exercises using Google Colab - no programming experience required.
 
-[View practicals →](practicals/practical-exercises-overview.md)
+[View practicals](practicals/practical-exercises-overview.md)
 
 ---
 
-*Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Contributions welcome via [GitHub](https://github.com/harl00/AIinHealthcare).*
+Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Contributions welcome via [GitHub](https://github.com/harl00/AIinHealthcare).

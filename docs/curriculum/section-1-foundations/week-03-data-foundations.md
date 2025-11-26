@@ -364,4 +364,4 @@ This week emphasised the critical role of data in AI system performance:
 
 **Summative Assessment 1: Technical Foundations Analysis**
 
-Due end of Week 4. See [Assessment 1 Brief](../../assessments/assessment-1-technical-foundations.md) for full details.
+Due end of Week 4. See [Assessment 1 Brief](../../assessments/assessment-1-technical-foundations.md) for details.

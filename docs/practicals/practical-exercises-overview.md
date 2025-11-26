@@ -51,7 +51,7 @@ By completing these exercises, you will:
 
 **Deliverable:** Self-assessment checklist completion
 
-[Full details in curriculum/00-pre-course-orientation.md](../curriculum/00-pre-course-orientation.md)
+[Full details](../curriculum/00-pre-course-orientation.md)
 
 ---
 

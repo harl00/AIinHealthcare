@@ -1,7 +1,6 @@
 site_name: AI in Healthcare
 site_url: https://harl00.github.io/AIinHealthcare/
 repo_url: https://github.com/harl00/AIinHealthcare
-repo_name: harl00/AIinHealthcare
 
 theme:
   name: material
@@ -30,25 +29,25 @@ nav:
   - Unit Overview:
       - Overview: curriculum/00-unit-overview.md
       - Pre-course Orientation: curriculum/00-pre-course-orientation.md
-  - "Foundations (Weeks 1-3)":
-      - "Week 1 - Introduction": curriculum/section-1-foundations/week-01-introduction.md
-      - "Week 2 - Architecture": curriculum/section-1-foundations/week-02-architecture.md
-      - "Week 3 - Data Foundations": curriculum/section-1-foundations/week-03-data-foundations.md
-  - "Evaluation (Weeks 4-6)":
-      - "Week 4 - Safety": curriculum/section-2-evaluation/week-04-safety-failure-modes.md
-      - "Week 5 - Ethics & Regulation": curriculum/section-2-evaluation/week-05-ethics-regulation.md
-      - "Week 6 - High-Stakes Environments": curriculum/section-2-evaluation/week-06-high-stakes-environments.md
-  - "Application (Weeks 7-9)":
-      - "Week 7 - Implementation": curriculum/section-3-application/week-07-implementation-frameworks.md
-      - "Week 8 - Human-AI Teaming": curriculum/section-3-application/week-08-human-ai-teaming.md
-      - "Week 9 - Monitoring": curriculum/section-3-application/week-09-monitoring-maintenance.md
-  - "Synthesis (Weeks 10-12)":
-      - "Week 10 - Current Landscape": curriculum/section-4-synthesis/week-10-current-landscape.md
-      - "Week 11 - Emerging Tech": curriculum/section-4-synthesis/week-11-emerging-technologies.md
-      - "Week 12 - Integration": curriculum/section-4-synthesis/week-12-integration-positioning.md
+  - Foundations (Weeks 1-3):
+      - Week 1 - Introduction: curriculum/section-1-foundations/week-01-introduction.md
+      - Week 2 - Architecture: curriculum/section-1-foundations/week-02-architecture.md
+      - Week 3 - Data Foundations: curriculum/section-1-foundations/week-03-data-foundations.md
+  - Evaluation (Weeks 4-6):
+      - Week 4 - Safety: curriculum/section-2-evaluation/week-04-safety-failure-modes.md
+      - Week 5 - Ethics and Regulation: curriculum/section-2-evaluation/week-05-ethics-regulation.md
+      - Week 6 - High-Stakes Environments: curriculum/section-2-evaluation/week-06-high-stakes-environments.md
+  - Application (Weeks 7-9):
+      - Week 7 - Implementation: curriculum/section-3-application/week-07-implementation-frameworks.md
+      - Week 8 - Human-AI Teaming: curriculum/section-3-application/week-08-human-ai-teaming.md
+      - Week 9 - Monitoring: curriculum/section-3-application/week-09-monitoring-maintenance.md
+  - Synthesis (Weeks 10-12):
+      - Week 10 - Current Landscape: curriculum/section-4-synthesis/week-10-current-landscape.md
+      - Week 11 - Emerging Tech: curriculum/section-4-synthesis/week-11-emerging-technologies.md
+      - Week 12 - Integration: curriculum/section-4-synthesis/week-12-integration-positioning.md
   - Assessments:
-      - "Assessment 1": assessments/assessment-1-technical-foundations.md
-      - "Assessment 2": assessments/assessment-2-critical-evaluation.md
-      - "Assessment 3 - Capstone": assessments/assessment-3-capstone.md
+      - Assessment 1: assessments/assessment-1-technical-foundations.md
+      - Assessment 2: assessments/assessment-2-critical-evaluation.md
+      - Assessment 3 - Capstone: assessments/assessment-3-capstone.md
   - Practicals: practicals/practical-exercises-overview.md
   - Reading List: resources/reading-list.md
