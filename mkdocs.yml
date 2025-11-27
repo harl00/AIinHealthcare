@@ -29,7 +29,7 @@ markdown_extensions:
       base_path: docs
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.admonition
+  - admonition
 
 nav:
   - Home: index.md
