@@ -17,8 +17,12 @@
 1. Click the notebook link above
 2. Click **"Download"** or right-click → Save as
 3. Go to [https://colab.research.google.com](https://colab.research.google.com)
-4. Select **File → Upload notebook**
-5. Choose the downloaded `.ipynb` file
+4. Select **File → Open notebook**
+5. In the dialog that appears, click **Upload** in the left sidebar:
+
+    ![Colab Upload Dialog](../assets/images/colab-upload-dialog.png)
+
+6. Choose the downloaded `.ipynb` file from your computer
 
 ### Important: Save Your Own Copy
 
