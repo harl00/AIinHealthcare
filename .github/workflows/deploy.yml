@@ -20,10 +20,9 @@ jobs:
         with:
           python-version: 3.x
 
-      - run: pip install mkdocs-material
 
+      - run: pip install -r requirements.txt
       - run: mkdocs build
-
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./site
