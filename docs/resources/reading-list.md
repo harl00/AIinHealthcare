@@ -84,7 +84,7 @@ Rajkomar, A., Dean, J., & Kohane, I. (2019). Machine Learning in Medicine. *New 
 
 **Required:**
 - Australian Government. Australia's AI Ethics Framework. [industry.gov.au](https://www.industry.gov.au/data-and-publications/australias-artificial-intelligence-ethics-framework)
-- Therapeutic Goods Administration. Software as a Medical Device (SaMD). [tga.gov.au](https://www.tga.gov.au/how-we-regulate/manufacturing/manufacturing-medical-devices/software-based-medical-devices)
+- Therapeutic Goods Administration. Software as a Medical Device (SaMD). [tga.gov.au](https://www.tga.gov.au/products/medical-devices/software-and-artificial-intelligence/manufacturing/artificial-intelligence-ai-and-medical-device-software/software-based-medical-devices)
 
 **Recommended:**
 - AHPRA/Medical Board of Australia. Technology and telehealth guidelines.
