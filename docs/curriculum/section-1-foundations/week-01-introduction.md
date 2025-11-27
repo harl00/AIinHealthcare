@@ -153,6 +153,8 @@ Throughout this course, we'll use aeromedical retrieval as a lens for examining 
 
 **📓 [Open Exercise 1 Notebook](../../practicals/colab-notebooks/01-exploring-ai-outputs.ipynb)**
 
+--8<-- "practicals/_colab-instructions.md"
+
 ### Objective
 
 Interact with pre-trained AI models to observe their behaviour and limitations.

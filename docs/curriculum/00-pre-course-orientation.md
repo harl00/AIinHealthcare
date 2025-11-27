@@ -135,9 +135,11 @@ Most course exercises use pre-built notebooks. You'll open them, run the cells, 
 
 **📓 [Open Pre-Course Orientation Notebook](../practicals/colab-notebooks/00-orientation.ipynb)**
 
-1. Click the link above to open the orientation notebook
-2. When prompted, click **"Copy to Drive"** or **"Open in Colab"** to create your own editable version
-3. Work through the guided exercises in the notebook
+--8<-- "practicals/_colab-instructions.md"
+
+After opening the notebook:
+1. Save a copy to your Drive (File → Save a copy in Drive)
+2. Work through the guided exercises in the notebook
 
 ### Key Operations to Practice
 

@@ -25,6 +25,10 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+  - pymdownx.snippets:
+      base_path: docs
+  - pymdownx.details
+  - pymdownx.superfences
 
 nav:
   - Home: index.md

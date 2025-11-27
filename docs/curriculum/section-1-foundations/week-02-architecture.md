@@ -203,6 +203,8 @@ Different AI architectures suit different retrieval medicine applications:
 
 **📓 [Open Exercise 2 Notebook](../../practicals/colab-notebooks/02-ml-fundamentals.ipynb)**
 
+--8<-- "practicals/_colab-instructions.md"
+
 ### Objective
 
 Train a simple classifier to understand the ML process from data to prediction.

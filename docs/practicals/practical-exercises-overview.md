@@ -43,6 +43,8 @@ By completing these exercises, you will:
 
 **📓 [Open Orientation Notebook](colab-notebooks/00-orientation.ipynb)**
 
+--8<-- "_colab-instructions.md"
+
 **Objective:** Ensure all students can navigate Google Colab before the course begins.
 
 **Skills Developed:**
@@ -60,6 +62,8 @@ By completing these exercises, you will:
 ### Exercise 1: Exploring AI Outputs
 
 **📓 [Open Exercise 1 Notebook](colab-notebooks/01-exploring-ai-outputs.ipynb)**
+
+--8<-- "_colab-instructions.md"
 
 **Objective:** Interact with pre-trained AI models to observe their behaviour and limitations.
 
@@ -80,6 +84,8 @@ By completing these exercises, you will:
 ### Exercise 2: ML Fundamentals Hands-on
 
 **📓 [Open Exercise 2 Notebook](colab-notebooks/02-ml-fundamentals.ipynb)**
+
+--8<-- "_colab-instructions.md"
 
 **Objective:** Train a simple classifier to understand the ML process from data to prediction.
 
@@ -122,6 +128,8 @@ By completing these exercises, you will:
 
 **📓 [Open Exercise 5 Notebook](colab-notebooks/05-fairness-metrics.ipynb)**
 
+--8<-- "_colab-instructions.md"
+
 **Objective:** Apply fairness metrics to evaluate AI model performance across demographic groups.
 
 **Activities:**
@@ -143,6 +151,8 @@ By completing these exercises, you will:
 ### Exercise 7: Local Validation Simulation
 
 **📓 [Open Exercise 7 Notebook](colab-notebooks/07-local-validation.ipynb)**
+
+--8<-- "_colab-instructions.md"
 
 **Objective:** Understand validation requirements for deploying AI in a new environment.
 
@@ -167,6 +177,8 @@ By completing these exercises, you will:
 ### Exercise 10: Clinical LLM Experimentation
 
 **📓 [Open Exercise 10 Notebook](colab-notebooks/10-clinical-llm.ipynb)**
+
+--8<-- "_colab-instructions.md"
 
 **Objective:** Systematically evaluate large language model capabilities and limitations for clinical applications.
 
