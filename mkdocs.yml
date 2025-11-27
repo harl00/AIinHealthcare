@@ -24,9 +24,9 @@ plugins:
 markdown_extensions:
   - tables
   - toc:
-    permalink: true
+      permalink: true
   - pymdownx.snippets:
-    base_path: docs
+      base_path: docs
   - pymdownx.details
   - pymdownx.superfences
   - admonition
