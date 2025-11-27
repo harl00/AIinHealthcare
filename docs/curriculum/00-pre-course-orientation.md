@@ -133,8 +133,10 @@ Most course exercises use pre-built notebooks. You'll open them, run the cells, 
 
 ### Exercise 1.5: Opening a Shared Notebook
 
-1. Open the provided "Course Orientation Notebook" link (will be distributed via LMS)
-2. When prompted, click **"Copy to Drive"** to create your own editable version
+**📓 [Open Pre-Course Orientation Notebook](../practicals/colab-notebooks/00-orientation.ipynb)**
+
+1. Click the link above to open the orientation notebook
+2. When prompted, click **"Copy to Drive"** or **"Open in Colab"** to create your own editable version
 3. Work through the guided exercises in the notebook
 
 ### Key Operations to Practice
